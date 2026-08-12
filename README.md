@@ -56,10 +56,6 @@
 
 --- 
 
-# 🔥 GitHub Streak 
-<div align="center"> 
-  <img src="https://demolab.com"/> 
-</div>
 
 
 ---
