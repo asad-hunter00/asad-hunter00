@@ -80,53 +80,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asad-hunter00&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/asad-hunter00/asad-hunter00/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🛠 Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,chrome,npm" />
-
-</div>
-
----
-
-# 📫 Contact Me
-
-<div align="center">
-
-<a href="https://github.com/asad-hunter00">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-# 💬 Favorite Quote
-
-> **"Success comes from consistent learning and practice."**
-
----
 
 <div align="center">
 
