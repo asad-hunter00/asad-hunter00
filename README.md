@@ -70,6 +70,20 @@
 
 ---
 
+# 🐍 GitHub Snake Game
+<div align="center">
+  <img src="https://githubusercontent.com" alt="Snake" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com" alt="asad-hunter00" />
+</div>
+
+
+---
+
 
 <div align="center">
 
