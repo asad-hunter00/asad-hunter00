@@ -68,10 +68,6 @@
 
 </div>
 
----
-
-# 🐍 GitHub Snake Game
-![GitHub Snake](https://raw.githubusercontent.com/<username>/output/dist/github-snake.svg)
 
 ---
 
