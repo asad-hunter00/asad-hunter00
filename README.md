@@ -2,9 +2,9 @@
 
 # 👋 Assalomu alaykum, Men Asadbek
 
-### 🇺🇿 Frontend Developer • React Learner • Future Full Stack Developer
+### 🇺🇿 Frontend Developer • React Developer • TypeScript Learner • Future Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Frontend+Developer;React+Learner;Always+Learning+New+Things;Future+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Frontend+Developer;React+Developer;Learning+TypeScript;Building+Modern+Web+Apps;Future+Full+Stack+Developer" />
 
 <br>
 
@@ -16,14 +16,14 @@
 
 # 👨‍💻 About Me
 
-- 🇺🇿 From Uzbekistan
-- 🎂 Age: **14**
-- 💻 Frontend Developer
-- ⚛️ Currently Learning **React.js**
-- 📚 Improving JavaScript every day
-- 🎯 Goal: Become a Professional Full Stack Developer
-- 🚀 Love building modern and responsive websites
-- 🌱 Always learning new technologies
+* 🇺🇿 From Uzbekistan
+* 💻 Frontend Developer
+* ⚛️ React.js Developer
+* 🟦 Currently Learning **TypeScript**
+* 📚 Experienced with modern React tools and libraries
+* 🚀 Love building modern and responsive web applications
+* 🎯 Goal: Become a Professional Full Stack Developer
+* 🌱 Always learning and improving my skills
 
 ---
 
@@ -31,32 +31,79 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,vite,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,ts,vite,git,github,vscode,figma,graphql" />
 
 </div>
 
 ---
 
-# 📚 Currently Learning
+# ⚛️ React Skills
 
-- ⚛️ React.js
-- ⚡ JavaScript ES6+
-- 📦 Vite
-- 🎨 Responsive Design
-- 🌍 Git & GitHub
-- 🔥 APIs
+* JSX & Components
+* Props & State
+* React Hooks
+* `useState`
+* `useEffect`
+* `useRef`
+* `useMemo`
+* `useCallback`
+* `React.memo`
+* Context API
+* React Router
+* React Hook Form
+* Zustand
+* Material UI
+* Styled Components
+* REST APIs
+* GraphQL
+* Authentication
 
 ---
 
-# 📊 GitHub Statistics 
-<div align="center"> 
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=asad-hunter00&show_icons=true&theme=tokyonight&hide_border=true"/> 
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asad-hunter00&layout=compact&theme=tokyonight&hide_border=true"/> 
-</div> 
+# 🟦 Currently Learning
 
---- 
+* TypeScript
+* Type Annotations
+* Interfaces
+* Type Aliases
+* Union Types
+* Generics
+* Type Narrowing
+* TypeScript with React
+* Typed Props & State
+* Typed API Data
+* TypeScript with Zustand
+* TypeScript with React Hook Form
 
+---
 
+# 🛠️ Tools & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,materialui,styledcomponents,zustand,graphql,git,github,vscode" />
+
+</div>
+
+---
+
+# 🎯 My Goal
+
+My goal is to become a **strong Full Stack Developer** by building real-world projects, learning modern technologies, and improving my programming skills every day.
+
+### 🚀 Learn → Build → Practice → Improve
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=asad-hunter00&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asad-hunter00&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -68,9 +115,7 @@
 
 </div>
 
-
 ---
-
 
 <div align="center">
 
